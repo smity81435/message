@@ -5,5 +5,7 @@
 @import "boilbefore";
 @import "base";
 @import "boilafter";
-//@import "layout";
+@import "layout";
+@import "icons/*.png";
+@include all-icons-sprites;
 //@import "modules";
